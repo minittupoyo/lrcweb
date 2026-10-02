@@ -1,0 +1,28 @@
+# Dependencies and build artifacts
+/node_modules/
+/dist/
+/out/
+*.tgz
+
+# Test reports and coverage
+/test-results/
+/playwright-report/
+/blob-report/
+/coverage/
+*.lcov
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+
+# Logs, caches and local editor files
+*.log
+*.tsbuildinfo
+.cache/
+.eslintcache
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
