@@ -26,3 +26,11 @@
 Thumbs.db
 *.swp
 *.swo
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+
+# cloudflare local state
+.cloudflare
