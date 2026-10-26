@@ -4,7 +4,7 @@ React・TypeScript・shadcn/ui・Tailwind CSS で作成した、日本語の LRC
 
 ## 起動
 
-Bun 1.4.2 以上が必要です。
+Bun 1.4.4 以上が必要です。
 
 ```bash
 bun install --frozen-lockfile
