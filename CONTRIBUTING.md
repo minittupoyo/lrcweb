@@ -1,6 +1,6 @@
 # 開発ガイド
 
-Bun 1.4.2 以上を使用します。依存関係は `bun install --frozen-lockfile` で復元してください。追加・変更した場合は `package.json` と `bun.lock` を一緒にコミットします。
+Bun 1.4.4 以上を使用します。依存関係は `bun install --frozen-lockfile` で復元してください。追加・変更した場合は `package.json` と `bun.lock` を一緒にコミットします。
 
 ## 変更前後のチェック
 
